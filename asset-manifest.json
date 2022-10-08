@@ -4,14 +4,14 @@
     "main.js.map": "https://sohalkumar.github.io/csb-slywws/static/js/main.14ccd956.chunk.js.map",
     "runtime-main.js": "https://sohalkumar.github.io/csb-slywws/static/js/runtime-main.c8184fb6.js",
     "runtime-main.js.map": "https://sohalkumar.github.io/csb-slywws/static/js/runtime-main.c8184fb6.js.map",
-    "static/js/2.e1fa8a51.chunk.js": "https://sohalkumar.github.io/csb-slywws/static/js/2.e1fa8a51.chunk.js",
-    "static/js/2.e1fa8a51.chunk.js.map": "https://sohalkumar.github.io/csb-slywws/static/js/2.e1fa8a51.chunk.js.map",
+    "static/js/2.2b5d8829.chunk.js": "https://sohalkumar.github.io/csb-slywws/static/js/2.2b5d8829.chunk.js",
+    "static/js/2.2b5d8829.chunk.js.map": "https://sohalkumar.github.io/csb-slywws/static/js/2.2b5d8829.chunk.js.map",
     "index.html": "https://sohalkumar.github.io/csb-slywws/index.html",
-    "static/js/2.e1fa8a51.chunk.js.LICENSE.txt": "https://sohalkumar.github.io/csb-slywws/static/js/2.e1fa8a51.chunk.js.LICENSE.txt"
+    "static/js/2.2b5d8829.chunk.js.LICENSE.txt": "https://sohalkumar.github.io/csb-slywws/static/js/2.2b5d8829.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8184fb6.js",
-    "static/js/2.e1fa8a51.chunk.js",
+    "static/js/2.2b5d8829.chunk.js",
     "static/js/main.14ccd956.chunk.js"
   ]
 }
